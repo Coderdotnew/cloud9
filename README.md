@@ -51,5 +51,6 @@ Good work. Now let's look at the top left at your **file tree**. Your file tree 
 
 Done! So, now what? feel free to poke around a little bit and get used to this environment because you'll be staring at it for the next couple weeks (and hopefully many weeks and years after that).
 
-
+---  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_001) 
 
